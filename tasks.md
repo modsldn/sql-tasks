@@ -20,9 +20,12 @@ HAVING count([Customer ID])>= 3;
 ```
 5. `ORDER` padeda išrikiuoti norima tvarka. 
 
-## Užduotys
 
-### [(Užduočių sprendimai)](task-solutions.sql)
+
+
+### ([Užduočių sprendimai](task-solutions.sql), [teorija](torija.sql))
+
+## Užduotys
 
 1. Suskaičiuoti, kiek yra aktorių, kurių pavardės prasideda A ir B raidėmis. Rezultate pateikti aktorių skaičių bei pavardės pirmąją raidę. 
 2. Suskaičiuoti kiek filmų yra nusifilmavę aktoriai. Rezultate pateikti filmų skaičių, aktoriaus vardą ir pavardę. Rezultate pateikti 10 aktorių, nusifilmavusių daugiausiai filmų.
