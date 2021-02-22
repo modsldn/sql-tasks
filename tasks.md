@@ -23,7 +23,7 @@ HAVING count([Customer ID])>= 3;
 
 
 
-### ([Užduočių sprendimai](task-solutions.sql), [teorija](torija.sql))
+### ([Užduočių sprendimai](task-solutions.sql), [teorija](teorija.sql))
 
 ## Užduotys
 
